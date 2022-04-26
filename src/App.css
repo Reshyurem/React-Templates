@@ -1,0 +1,16 @@
+.slideNav {
+  width: 17%;
+  position: absolute;
+  left: -17%;
+}
+
+.slideNav.visible {
+  left: -1%;
+  transition: 200ms;
+}
+
+.homeScreen {
+  width: 80%;
+  float: right;
+  padding-right: 2rem;
+}

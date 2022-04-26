@@ -1,0 +1,41 @@
+.heading {
+  font-size: xx-large;
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.headingIcon {
+  margin-right: 2rem;
+  font-size: 3rem;
+}
+
+.tableContainer {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.search {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.searchUsers {
+  color: rgb(52, 55, 99);
+  font-weight: 700;
+}
+
+.searchFilters {
+  display: flex;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+.searchFilters > input {
+  width: 30%;
+}
+
+.searchListFilters {
+  margin-left: auto;
+}
